@@ -1,0 +1,7 @@
+Modelo;Valor Metrica
+Own_LogisticRegression_p_1;0.987914335
+LogisticRegression()_p_2;0.806407933
+SGDClassifier()_p_5;0.798268398
+LinearSVC()_p_6;0.798268398
+GaussianNB()_p_4;0.796976777
+RandomForestClassifier()_p_3;0.790968231
